@@ -5,19 +5,22 @@ Expected Graduation: 2026 (Current GPA: 84.2% / First Class Honours)
 
 I am a software engineer with 2+ years of industry experience building scalable cloud-native solutions, real-time streaming APIs, and predictive engagement tools
 
-## 🛠️ The Toolbox
+### 🛠️ The Toolbox
 
-- **Cloud & Scaling**: AWS (EC2, S3, DynamoDB), Azure, Docker, Kubernetes, and Microservices
-- **Languages**: Java (Oracle OCA Certified), JavaScript/TypeScript, Python, C/C++, C#, R, MySQL
-- **Framework & Web**: Node.js, Spring Boot, Django, Flask, React, Vue.js, Angular
-- **Testing & DevOps**: ISTQB Certified, Jenkins, Maven, Git, and AI-assisted testing
+**Cloud & Infrastructure:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Microservices](https://img.shields.io/badge/Microservices-8CAAE6?style=flat&logo=databricks&logoColor=white)
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+**Languages:**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) ![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=dotnet&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+
+**Web & Real-Time:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white) ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+
+**Testing & DevOps:**
+![ISTQB](https://img.shields.io/badge/ISTQB-2E3192?style=flat&logo=istqb&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+**Game Dev & XR:**
+![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white) ![Cocos2d-x](https://img.shields.io/badge/Cocos2dx-323232?style=flat&logo=cocos&logoColor=white) ![SDL2](https://img.shields.io/badge/SDL2-00599C?style=flat&logo=libsdl&logoColor=white) ![Meta Quest](https://img.shields.io/badge/Meta_Quest-0668E1?style=flat&logo=meta&logoColor=white) ![VR](https://img.shields.io/badge/VR_Development-252525?style=flat&logo=oculus&logoColor=white)
 
 ## 📜 Verified Credentials
 

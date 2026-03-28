@@ -34,8 +34,8 @@ I am a software engineer with 2+ years of industry experience building scalable 
 
 ## 🎸 Beyond the Code
 
-- **Music**: I play Guitar and Bass; I've played in bands and even won a "Battle of the Bands" back in the day.
-- **Learning**: I'm a lifelong learner, always looking to grow my stack and explore "nerd stuff"
+- **Music**: I play Guitar and Bass.
+- **Learning**: I'm a lifelong learner, always looking to grow my stack and explore "nerd stuff".
 
 ## 📫 Connect with Me
 

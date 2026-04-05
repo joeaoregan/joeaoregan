@@ -3,7 +3,7 @@
 MSc Software Design with Cloud Native Computing candidate @ TUS Athlone  
 Expected Graduation: 2026 (Current GPA: 84.2% / First Class Honours)
 
-I am a software engineer with 2+ years of industry experience building scalable cloud-native solutions, real-time streaming APIs, and predictive engagement tools
+I am a software engineer with 2+ years of industry experience building [scalable cloud-native solutions](https://github.com/joeaoregan/TUS-25-CDD-CA1-Deploying-Microservice), [real-time streaming APIs](https://github.com/joeaoregan/TUS-26-MA-CA1-Guitar-Store-API), and predictive engagement tools
 
 ---
 

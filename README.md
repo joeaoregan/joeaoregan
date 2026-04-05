@@ -40,8 +40,7 @@ I am a software engineer with 2+ years of industry experience building scalable 
 
 ## 🎸 Beyond the Code
 
-- **Music**: I play Guitar and Bass.
-- **Learning**: I'm a lifelong learner, always looking to grow my stack and explore "nerd stuff".
+I like to play Guitar and Bass, and learning new things.
 
 ---
 

@@ -26,11 +26,9 @@ I am a software engineer with 2+ years of industry experience building [scalable
 **Projects:**
 [![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=openai&logoColor=white)](https://joeaoregan.github.io/TUS-26-ETP-AI-Traffic-Optimisation/) [![Networking](https://img.shields.io/badge/Networking-4479A1?style=flat&logo=wireshark&logoColor=white)](https://github.com/joeaoregan/LIT-Yr4-Project-NetworkGamesLibrary)
 
----
+_\* badges are links_
 
-<table>
-<tr>
-<td align="left" valign="top" width="60%">
+---
 
 📜 Verified Credentials
 | | |
@@ -40,16 +38,10 @@ I am a software engineer with 2+ years of industry experience building [scalable
 | **Testing**:   | ISTQB Software Tester Foundation Level (CTFL). |
 | **Microsoft**: | [Azure Cloud Fundamentals (AZ-900)](https://www.credly.com/badges/f1ed65d1-17b5-4320-813a-3f78abd3374f/public_url). |
 | **Others**:    | [Python Associate (PCAP)](https://www.credly.com/badges/edba2f8e-4231-40ad-94da-ebb485f11b39/public_url), [JS Associate](https://www.credly.com/badges/32fca618-2952-4166-bf1a-48553c172cf5/public_url), [APM Project Fundamentals](https://www.credly.com/badges/b0f9a0b4-d0b1-4d01-80f1-0e1f66756573/public_url). |
-</td>
-<td align="left" valign="top" width="40%">
 
 🎸 Beyond the Code
 
 I like to play Guitar and Bass, and learning new things.
-
-</td>
-</tr>
-</table>
 
 <div align="center">
 

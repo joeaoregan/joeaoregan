@@ -59,10 +59,6 @@ _\* badges are links, hover for tooltip_
 
 ---
 
-🎸 Beyond the Code
-
-I like to play Guitar and Bass, and learning new things.
-
 <div align="center">
 
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=flat&logo=github&logoColor=white)](https://joeaoregan.github.io/)

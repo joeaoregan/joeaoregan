@@ -8,14 +8,19 @@ I am a software engineer with 2+ years of industry experience building [scalable
 ---
 
 ### 🛠️ The Toolbox
-**Cloud & Infrastructure:**
+
+Sample project links, sorted by topic:
+
+#### Cloud & Infrastructure:
+
 [![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)](https://github.com/joeaoregan/TUS-25-CDD-CA1-Deploying-Microservice "TUS: Continuous Build & Delivery - AWS Microservice Deployment Example") 
 [![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)](https://www.credly.com/badges/f1ed65d1-17b5-4320-813a-3f78abd3374f/public_url "Microsoft Certified: Azure Fundamentals (Credly)") 
 [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://github.com/joeaoregan/TUS-25-CDD-CA1-Deploying-Microservice "TUS: Continuous Build and Delivery - Microservice example") 
 [![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)](https://www.credly.com/badges/cbca18dc-6a93-4d30-843a-502d54919e84/public_url "Credly Badge") 
 [![Microservices](https://img.shields.io/badge/Microservices-8CAAE6?style=flat&logo=databricks&logoColor=white)](https://tus-26-ma-ca1-guitar-store-api.onrender.com/ "TUS: Microservices Architecture - Spring Boot Guitar Store API")
 
-**Languages:**
+#### Languages:
+
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://github.com/joeaoregan/TUS-26-MA-CA1-Guitar-Store-API "TUS: Microservices Architecture - Spring Boot Guitar Store API") 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://github.com/joeaoregan/Django-PostgreSQL-Portfolio "Django PostgreSQL Portolio Project") 
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/joeaoregan/Connect5-JS-WebApp "Connect 5 JS / Node.js Full-Stack App")
@@ -27,7 +32,16 @@ I am a software engineer with 2+ years of industry experience building [scalable
 [![Perl](https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white)](https://github.com/joeaoregan/LIT-Yr2-Internetworking "LIT: Perl Sockets Example") 
 [![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)](https://github.com/joeaoregan/2022_DAIE_GCA_JOR "DKIT: Data Analytics R Project")
 
-**Web & Real-Time:**
+#### Testing & DevOps:
+
+[![ISTQB](https://img.shields.io/badge/ISTQB-2E3192?style=flat&logo=istqb&logoColor=white)](https://github.com/joeaoregan/TUS-26-MA-CA1-Guitar-Store-API "TUS: Continuous Build & Delivery - AI Assisted Testing Example") 
+[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.credly.com/badges/47e562d6-d2b3-4233-aaaf-2713d1f67891/public_url "Credly Badge") <!-- Link to CBD CA2 Project When Done -->
+[![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)](https://github.com/joeaoregan/TUS-26-MA-CA1-Guitar-Store-API "TUS: Microservices Architecture - Spring Boot Guitar Store API") 
+[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://github.com/joeaoregan?tab=repositories "Git Repositories Link") 
+[![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)](https://github.com/joeaoregan/TUS-26-MA-CA1-Guitar-Store-API "TUS: Continuous Build & Delivery - AI Assisted Testing Example")
+
+#### Web & Real-Time:
+
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)](https://github.com/joeaoregan/Connect5-JS-WebApp "Connect 5 Networked Game") 
 [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://github.com/joeaoregan/TUS-26-MA-CA1-Guitar-Store-API "TUS: Microservices Architecture - Spring Boot Guitar Store API") 
 [![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)](https://github.com/joeaoregan/Django-PostgreSQL-Portfolio "Django PostgreSQL Portolio Project") 
@@ -35,14 +49,8 @@ I am a software engineer with 2+ years of industry experience building [scalable
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://tetris-js.onrender.com/ "NG Tetris Angular/TypScript") 
 [![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=jsonwebtokens&logoColor=white)](https://joeaoregan.github.io/TUS-26-MA-CA1-Guitar-Store-API/ "TUS: Microservices Architecture - Spring Boot Guitar Store API")
 
-**Testing & DevOps:**
-[![ISTQB](https://img.shields.io/badge/ISTQB-2E3192?style=flat&logo=istqb&logoColor=white)](https://github.com/joeaoregan/TUS-26-MA-CA1-Guitar-Store-API "TUS: Continuous Build & Delivery - AI Assisted Testing Example") 
-[![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)](https://www.credly.com/badges/47e562d6-d2b3-4233-aaaf-2713d1f67891/public_url "Credly Badge") <!-- Link to CBD CA2 Project When Done -->
-[![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)](https://github.com/joeaoregan/TUS-26-MA-CA1-Guitar-Store-API "TUS: Microservices Architecture - Spring Boot Guitar Store API") 
-[![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://github.com/joeaoregan?tab=repositories "Git Repositories Link") 
-[![JUnit](https://img.shields.io/badge/JUnit5-25A162?style=flat&logo=junit5&logoColor=white)](https://github.com/joeaoregan/TUS-26-MA-CA1-Guitar-Store-API "TUS: Continuous Build & Delivery - AI Assisted Testing Example")
+#### Game Dev & XR:
 
-**Game Dev & XR:**
 [![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)](https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines "LIT: Zombie Apocalypse Unity Game") 
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white) <!-- Link to DKIT Project -->
 [![Cocos2d-x](https://img.shields.io/badge/Cocos2dx-323232?style=flat&logo=cocos&logoColor=white)](https://github.com/joeaoregan/cocos2dx-spacegame "LIT: C++ / Cocos2d-x Space Game") 
@@ -51,7 +59,8 @@ I am a software engineer with 2+ years of industry experience building [scalable
 ![VR](https://img.shields.io/badge/VR_Development-252525?style=flat&logo=oculus&logoColor=white)](https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines "LIT: Digital Game Engines - Unity / C# Game with VR Level") 
 [![RayLib](https://img.shields.io/badge/RayLib-252525?style=flat&logo=r&logoColor=white)](https://github.com/joeaoregan/DKIT-Software1-CA1 "DKIT: Software Engineering - C++ / RayLib Game")
 
-**Projects:**
+#### Projects:
+
 [![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=openai&logoColor=white)](https://joeaoregan.github.io/TUS-26-ETP-AI-Traffic-Optimisation/ "TUS: Engineering Team Project") 
 [![Networking](https://img.shields.io/badge/Networking-4479A1?style=flat&logo=wireshark&logoColor=white)](https://github.com/joeaoregan/LIT-Yr4-Project-NetworkGamesLibrary "LIT: BSc Final Year Project")
 
@@ -61,7 +70,10 @@ _\* badges are links, hover for tooltip_
 
 <div align="center">
 
+Profiles & Contact Details
+
 [![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-181717?style=flat&logo=github&logoColor=white)](https://joeaoregan.github.io/)
+[![Docker Hub](https://img.shields.io/badge/Docker_Hub-2496ED?style=flat-square&logo=docker&logoColor=white)](https://hub.docker.com/u/joe0regan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joeaoregan/)
 [![Credly](https://img.shields.io/badge/Credly-white?style=flat&logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9Im5vIj8+CjxzdmcKICAgdmlld0JveD0iMCAwIDQ3Ljk4Mjc0MiA0Ny45ODI3NDIiCiAgIHdpZHRoPSI5NS45NjU0ODUiCiAgIGhlaWdodD0iOTUuOTY1NDg1IgogICB2ZXJzaW9uPSIxLjEiCiAgIGlkPSJzdmcyIgogICBzb2RpcG9kaTpkb2NuYW1lPSJpY29uczgtY3JlZGx5OTYuc3ZnIgogICB4bWxuczppbmtzY2FwZT0iaHR0cDovL3d3dy5pbmtzY2FwZS5vcmcvbmFtZXNwYWNlcy9pbmtzY2FwZSIKICAgeG1sbnM6c29kaXBvZGk9Imh0dHA6Ly9zb2RpcG9kaS5zb3VyY2Vmb3JnZS5uZXQvRFREL3NvZGlwb2RpLTAuZHRkIgogICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgIHhtbG5zOnN2Zz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxkZWZzCiAgICAgaWQ9ImRlZnMyIiAvPgogIDxzb2RpcG9kaTpuYW1lZHZpZXcKICAgICBpZD0ibmFtZWR2aWV3MiIKICAgICBwYWdlY29sb3I9IiNmZmZmZmYiCiAgICAgYm9yZGVyY29sb3I9IiMwMDAwMDAiCiAgICAgYm9yZGVyb3BhY2l0eT0iMC4yNSIKICAgICBpbmtzY2FwZTpzaG93cGFnZXNoYWRvdz0iMiIKICAgICBpbmtzY2FwZTpwYWdlb3BhY2l0eT0iMC4wIgogICAgIGlua3NjYXBlOnBhZ2VjaGVja2VyYm9hcmQ9IjAiCiAgICAgaW5rc2NhcGU6ZGVza2NvbG9yPSIjZDFkMWQxIj4KICAgIDxpbmtzY2FwZTpwYWdlCiAgICAgICB4PSIwIgogICAgICAgeT0iMCIKICAgICAgIHdpZHRoPSI0Ny45ODI3NDIiCiAgICAgICBoZWlnaHQ9IjQ3Ljk4Mjc0MiIKICAgICAgIGlkPSJwYWdlMiIKICAgICAgIG1hcmdpbj0iMCIKICAgICAgIGJsZWVkPSIwIiAvPgogIDwvc29kaXBvZGk6bmFtZWR2aWV3PgogIDxwYXRoCiAgICAgZmlsbD0iI2ZiOGMwMCIKICAgICBkPSJtIDQ3Ljk4Mjc0Niw0MS4zMTg0NzUgYyAwLDMuNjc4Njc3IC0yLjk4NTU5NCw2LjY2NDI3IC02LjY2NDI3MSw2LjY2NDI3IEggNi42NjQyNyBDIDIuOTg1NTkzLDQ3Ljk4Mjc0NSAwLDQ0Ljk5NzE1MiAwLDQxLjMxODQ3NSBWIDYuNjY0MjcwMSBDIDAsMi45ODU1OTMgMi45ODU1OTMsMCA2LjY2NDI3LDAgaCAzNC42NTQyMDUgYyAzLjY3ODY3NywwIDYuNjY0MjcxLDIuOTg1NTkzIDYuNjY0MjcxLDYuNjY0MjcwMSB6IgogICAgIGlkPSJwYXRoMSIKICAgICBzdHlsZT0ic3Ryb2tlLXdpZHRoOjEuMzMyODYiIC8+CiAgPHBhdGgKICAgICBmaWxsPSIjZmZmZmZmIgogICAgIGQ9Im0gMzcuMDEzMzU3LDI4LjA0MzI0OSBjIC0wLjk0NjMyNywtMC42NjY0MjcgLTIuMjM5MTk1LC0wLjQyNjUxMyAtMi45MDU2MjIsMC41MTk4MTMgLTIuODUyMzA3LDMuOTQ1MjQ4IC02Ljk1NzQ5OCw3LjQyMzk5NyAtMTIuNzY4NzQxLDcuNDIzOTk3IC01LjgxMTI0NCwwIC02LjE1Nzc4NiwtMTAuNTAyODkgLTIuNjY1NzA5LC0xNy4zMjcxMDIgMi4xNDU4OTUsLTQuMTg1MTYyIDUuMTU4MTQ1LC03LjYzNzI1NCA3Ljc4Mzg2OCwtNy42MjM5MjUgMS44NTI2NjcsMCAyLjkwNTYyMiwxLjY3OTM5NiAyLjM5OTEzNywzLjQ2NTQyIC0wLjYxMzExMywyLjE3MjU1MiAtMC42Nzk3NTUsMy42MjUzNjMgLTAuNjc5NzU1LDMuNzQ1MzIgLTAuMDUzMzIsMS4yNzk1NCAwLjk0NjMyNiwyLjM1OTE1MiAyLjIzOTE5NCwyLjM5OTEzNyAwLjAyNjY2LDAgMC4wNTMzMiwwLjAxMzMyIDAuMDkzMywwLjAxMzMyIDEuMjM5NTU1LDAgMi4yNjU4NTIsLTAuOTg2MzEyIDIuMzE5MTY2LC0yLjIzOTE5NCAwLC0wLjAzOTk4IDAuMjM5OTE0LC00LjQxMTc0OCAzLjcwNTMzNCwtOS4wMjM0MjI3IEMgMzcuMzczMjI4LDguMjc3MDE4OSAzNy4wNTMzNDIsNi42Mzc2MDg1IDM1Ljc3MzgwMiw1Ljk0NDUyNDMgMzQuNzQ3NTA1LDUuMzg0NzI1NyAzMy40NDEzMDgsNS43NTc5MjQ4IDMyLjc0ODIyNCw2LjY5MDkyMjYgMzIuNTQ4Mjk2LDYuOTU3NDkzNCAzMi4zNjE2OTYsNy4yMTA3MzU3IDMyLjE4ODQyNSw3LjQ3NzMwNjUgMzIuMDAxODI2LDcuNzQzODc3MyAzMS42NTUyODQsNy44MzcxNzcxIDMxLjM2MjA1Niw3LjcwMzg5MTcgMjEuMDk5MDgsMy4wNzg4ODgyIDE1LjI3NDUwOCwxMi44NDg3MDkgMTMuMzU1MTk4LDE3LjM0MDQyNyBjIC0zLjk5ODU2MjQsOS4zMjk5NzggLTMuOTk4NTYyNCwyMy45OTEzNzIgNy40OTA2NCwyMy45OTEzNzIgOS42MjMyMDYsMCAxNC4xNjgyMzgsLTYuMzMxMDU2IDE2Ljc5Mzk2LC0xMC4zODI5MzIgMC42MTMxMTMsLTAuOTQ2MzI2IDAuMzU5ODcxLC0yLjIxMjUzOCAtMC41NTk3OTgsLTIuODUyMzA4IC0wLjAxMzM0LDAgLTAuMDI2NjYsLTAuMDI2NjYgLTAuMDM5OTgsLTAuMDI2NjYgeiIKICAgICBpZD0icGF0aDIiCiAgICAgc3R5bGU9InN0cm9rZS13aWR0aDoxLjMzMjg2IgogICAgIGlua3NjYXBlOmV4cG9ydC1maWxlbmFtZT0iY3JlZGx5Q185Ni5zdmciCiAgICAgaW5rc2NhcGU6ZXhwb3J0LXhkcGk9Ijk2IgogICAgIGlua3NjYXBlOmV4cG9ydC15ZHBpPSI5NiIgLz4KPC9zdmc+Cg==)](https://www.credly.com/users/joe-o-regan "Credly Profile")
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:joeaoregan@yahoo.ie)

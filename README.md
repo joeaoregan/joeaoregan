@@ -1,9 +1,8 @@
-## Hi there 👋
+Software Engineer with commercial experience developing cloud-native applications, microservices, and full-stack web solutions.
 
-MSc Software Design with Cloud Native Computing candidate @ TUS Athlone  
-Expected Graduation: 2026 (Current GPA: 84.2% / First Class Honours)
+Currently completing an MSc in Software Design with Cloud Native Computing at TUS (First Class Honours average).
 
-I am a software engineer with 2+ years of industry experience building [scalable cloud-native solutions](https://github.com/joeaoregan/TUS-25-CDD-CA1-Deploying-Microservice), [real-time streaming APIs](https://github.com/joeaoregan/TUS-26-MA-CA1-Guitar-Store-API), and predictive engagement tools
+Core technologies: Java, TypeScript, Python, Spring Boot, Angular, React, Docker, Kubernetes, AWS, Azure.
 
 ---
 

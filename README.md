@@ -63,7 +63,11 @@ Sample project links, sorted by topic:
 [![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=openai&logoColor=white)](https://joeaoregan.github.io/TUS-26-ETP-AI-Traffic-Optimisation/ "TUS: Engineering Team Project") 
 [![Networking](https://img.shields.io/badge/Networking-4479A1?style=flat&logo=wireshark&logoColor=white)](https://github.com/joeaoregan/LIT-Yr4-Project-NetworkGamesLibrary "LIT: BSc Final Year Project")
 
-_\* badges are links, hover for tooltip_
+> [!NOTE]
+> I've moved games here: <https://github.com/JoeORegan>
+
+> [!NOTE]
+> _badges are links, hover for tooltip_
 
 ---
 

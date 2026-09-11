@@ -48,16 +48,6 @@ Sample project links, sorted by topic:
 [![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)](https://tetris-js.onrender.com/ "NG Tetris Angular/TypScript") 
 [![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=jsonwebtokens&logoColor=white)](https://joeaoregan.github.io/TUS-26-MA-CA1-Guitar-Store-API/ "TUS: Microservices Architecture - Spring Boot Guitar Store API")
 
-#### Game Dev & XR:
-
-[![Unity](https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=unity&logoColor=black)](https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines "LIT: Zombie Apocalypse Unity Game") 
-![Unreal Engine](https://img.shields.io/badge/Unreal_Engine-0E1128?style=flat&logo=unrealengine&logoColor=white) <!-- Link to DKIT Project -->
-[![Cocos2d-x](https://img.shields.io/badge/Cocos2dx-323232?style=flat&logo=cocos&logoColor=white)](https://github.com/joeaoregan/cocos2dx-spacegame "LIT: C++ / Cocos2d-x Space Game") 
-[![SDL2](https://img.shields.io/badge/SDL2-00599C?style=flat&logo=libsdl&logoColor=white)](https://github.com/joeaoregan/LIT-Yr3-AdvancedDigitalGameProgramming "LIT: Advanced Digital Game Programming - C++ / SDL2 Game") 
-[![Meta Quest](https://img.shields.io/badge/Meta_Quest-0668E1?style=flat&logo=meta&logoColor=white) 
-![VR](https://img.shields.io/badge/VR_Development-252525?style=flat&logo=oculus&logoColor=white)](https://github.com/joeaoregan/LIT-Yr4-DigitalGameEngines "LIT: Digital Game Engines - Unity / C# Game with VR Level") 
-[![RayLib](https://img.shields.io/badge/RayLib-252525?style=flat&logo=r&logoColor=white)](https://github.com/joeaoregan/DKIT-Software1-CA1 "DKIT: Software Engineering - C++ / RayLib Game")
-
 #### Projects:
 
 [![AI](https://img.shields.io/badge/AI-FF6F00?style=flat&logo=openai&logoColor=white)](https://joeaoregan.github.io/TUS-26-ETP-AI-Traffic-Optimisation/ "TUS: Engineering Team Project") 

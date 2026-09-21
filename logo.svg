@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 160" width="100%" height="100%">
+  <defs>
+    <style>
+      .bg {
+        fill: #020d06;
+        stroke: #1b5e20;
+        stroke-width: 2;
+        rx: 8px;
+      }
+
+      .term-text {
+        font-family: 'Consolas', monospace;
+        font-size: 24px;
+        font-weight: 700;
+        fill: #5af78e;
+        letter-spacing: 0px;
+      }
+      
+      @keyframes typeLine1 {
+        0%          { width: 0; }
+        22%, 88%    { width: 147px; }
+        90%, 100%   { width: 0; }
+      }
+      @keyframes typeLine2 {
+        0%, 34%     { width: 0; }
+        68%, 78%    { width: 226px; }
+        80%, 100%   { width: 0; }
+      }
+
+      @keyframes moveCursor {
+        0%, 1.99%   { transform: translate(0px, 0px); opacity: 1; }
+        2%, 3.99%   { transform: translate(13.2px, 0px); opacity: 1; }
+        4%, 5.99%   { transform: translate(26.4px, 0px); opacity: 1; }
+        6%, 7.99%   { transform: translate(39.6px, 0px); opacity: 1; }
+        8%, 9.99%   { transform: translate(52.8px, 0px); opacity: 1; }
+        10%, 11.99% { transform: translate(66.0px, 0px); opacity: 1; }
+        12%, 13.99% { transform: translate(79.2px, 0px); opacity: 1; }
+        14%, 15.99% { transform: translate(92.4px, 0px); opacity: 1; }
+        16%, 17.99% { transform: translate(105.6px, 0px); opacity: 1; }
+        18%, 19.99% { transform: translate(118.8px, 0px); opacity: 1; }
+        20%, 21.99% { transform: translate(132.0px, 0px); opacity: 1; }
+        22%, 30.99% { transform: translate(145.2px, 0px); opacity: 1; }
+
+        /* Jump to start of Line 2 */
+        31%, 33.99% { transform: translate(0px, 46px); opacity: 1; }
+
+        /* Line 2: Software Engineer (17 chars) */
+        34%, 35.99% { transform: translate(0px, 46px); opacity: 1; }
+        36%, 37.99% { transform: translate(13.2px, 46px); opacity: 1; }
+        38%, 39.99% { transform: translate(26.4px, 46px); opacity: 1; }
+        40%, 41.99% { transform: translate(39.6px, 46px); opacity: 1; }
+        42%, 43.99% { transform: translate(52.8px, 46px); opacity: 1; }
+        44%, 45.99% { transform: translate(66.0px, 46px); opacity: 1; }
+        46%, 47.99% { transform: translate(79.2px, 46px); opacity: 1; }
+        48%, 49.99% { transform: translate(92.4px, 46px); opacity: 1; }
+        50%, 51.99% { transform: translate(105.6px, 46px); opacity: 1; }
+        52%, 53.99% { transform: translate(118.8px, 46px); opacity: 1; }
+        54%, 55.99% { transform: translate(132.0px, 46px); opacity: 1; }
+        56%, 57.99% { transform: translate(145.2px, 46px); opacity: 1; }
+        58%, 59.99% { transform: translate(158.4px, 46px); opacity: 1; }
+        60%, 61.99% { transform: translate(171.6px, 46px); opacity: 1; }
+        62%, 63.99% { transform: translate(184.8px, 46px); opacity: 1; }
+        64%, 65.99% { transform: translate(198.0px, 46px); opacity: 1; }
+        66%, 67.99% { transform: translate(211.2px, 46px); opacity: 1; }
+        68%, 78%    { transform: translate(224.4px, 46px); opacity: 1; }
+
+        78.1%, 99.9% { transform: translate(0px, 0px); opacity: 0; }
+        100%        { transform: translate(0px, 0px); opacity: 1; }
+      }
+
+      @keyframes blinkCursor {
+        0%, 49.9% { opacity: 1; }
+        50%, 100% { opacity: 0; }
+      }
+
+      .clip-box-1 {
+        animation: typeLine1 9s steps(11, end) infinite;
+      }
+
+      .clip-box-2 {
+        animation: typeLine2 9s steps(17, end) infinite;
+      }
+
+      .cursor-tracker {
+        animation: moveCursor 9s linear infinite;
+      }
+
+      .cursor-shape {
+        animation: blinkCursor 0.55s step-end infinite;
+      }
+    </style>
+
+    <clipPath id="clipLine1">
+      <rect class="clip-box-1" x="30" y="25" width="0" height="42" />
+    </clipPath>
+
+    <clipPath id="clipLine2">
+      <rect class="clip-box-2" x="30" y="71" width="0" height="42" />
+    </clipPath>
+  </defs>
+
+  <rect class="bg" x="2" y="2" width="516" height="156" />
+  <g clip-path="url(#clipLine1)">
+    <text class="term-text" x="30" y="58" textLength="145.2" lengthAdjust="spacingAndGlyphs">Joe O'Regan</text>
+  </g>
+
+  <g clip-path="url(#clipLine2)">
+    <text class="term-text" x="30" y="104" textLength="224.4" lengthAdjust="spacingAndGlyphs">Software Engineer</text>
+  </g>
+
+  <g class="cursor-tracker">
+    <rect class="cursor-shape" x="30" y="38" width="12" height="23" fill="#5af78e" />
+  </g>
+</svg>

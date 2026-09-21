@@ -1,3 +1,5 @@
+![animated svg logo](logo.svg)
+
 Software Engineer with experience developing cloud-native applications, microservices, and full-stack web solutions.
 
 ---
